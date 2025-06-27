@@ -219,17 +219,17 @@ export const productData: Record<string, ProductType[]> = {
   yaglar: [
     {
       name: "İnek sadeyağı",
-      price: "650 TL",
+      price: "750 TL",
       image: "/images/yaglar/ineksadeyag.webp",
     },
     {
       name: "Koyun sadeyağ",
-      price: "700 TL",
+      price: "800 TL",
       image: "/images/yaglar/koyunsadeyag.jpg",
     },
     {
       name: "Koyun-keçi sadeyağ",
-      price: "750 TL",
+      price: "850 TL",
       image: "/images/yaglar/inekkoyunkarisik.jpg",
     },
     {
@@ -268,7 +268,7 @@ export const productData: Record<string, ProductType[]> = {
   kuruyemis: [
     {
       name: "Fındık",
-      price: "600 TL",
+      price: "700 TL",
       image: "/images/kuruyemis/findik.webp",
     },
     {
@@ -278,7 +278,7 @@ export const productData: Record<string, ProductType[]> = {
     },
     {
       name: "Tuzlu fıstık",
-      price: "750 TL",
+      price: "850 TL",
       image: "/images/kuruyemis/tuzlufistik.webp",
     },
     {
